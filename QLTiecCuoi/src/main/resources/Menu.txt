@@ -1,0 +1,4 @@
+ThucAn,Mi,50000,0,ThucAn,Chao,20000,1,ThucAn,BanhMi,30000,0,DoUong,Bia,100000,SaiGon,DoUong,Nuoc Ngot,100000,CoCa
+ThucAn,Mi,50000,0,ThucAn,Chao,20000,1,ThucAn,BanhMi,30000,0,DoUong,Bia,100000,SaiGon,DoUong,Nuoc Ngot,100000,7up
+ThucAn,HaCao,50000,0,ThucAn,Lau,20000,1,ThucAn,BanhMi,30000,0,DoUong,Bia,100000,SaiGon,DoUong,Nuoc Ngot,100000,CoCa
+ThucAn,Chao,50000,0,ThucAn,BanhMi,20000,1,ThucAn,Lau,30000,0,DoUong,Bia,100000,SaiGon,DoUong,Nuoc Ngot,100000,pepsi
